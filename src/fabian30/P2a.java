@@ -1,3 +1,7 @@
+// Desarrollado por
+// Vladimir Vargas Díaz
+// Kevin Felipe Marroquín
+// Germán David García Nieves
 package fabian30;
 
 import java.util.Random;
